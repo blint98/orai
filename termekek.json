@@ -1,0 +1,16 @@
+[
+    {
+        "nev": "valami1",
+        "cikkszam": 10001,
+        "ar": 1000,
+        "db": 10,
+        "elerheto": true
+    },
+    {
+        "nev": "valami2",
+        "cikkszam": 10002,
+        "ar": 1001,
+        "db": 20,
+        "elerheto": false
+    }
+]
